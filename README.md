@@ -37,14 +37,14 @@ Make sure you have the following installed:
 Clone the repository to your local machine using the following command:
 ```bash
 git clone https://github.com/your-username/SecureScan.git
-cd SecureScan
+cd SecureScan  ``` 
 
 #### 2. Install Dependencies
 Install the required packages using Flutter's package manager:
 ```bash
-flutter pub get
+flutter pub get ```
 
 #### 4. Run the Application
 To run the application locally, use the following command:
 ```bash
-flutter run
+flutter run ```
